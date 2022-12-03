@@ -1,1 +1,4 @@
 # VEHICLE-INSURANCE-MANAGEMENT-SYSTEM
+
+|SYNOPSIS|[Click here](https://github.com/SKsaikiran/VEHICLE-INSURANCE-MANAGEMENT-SYSTEM/blob/2aad7133cb5a7b3220e1ad215296059b6997b7b7/Documents/SYNOPSIS.md)|
+|:-----|:---|
