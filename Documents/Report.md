@@ -8,11 +8,21 @@
 - ER to Relation Mapping								
 - Schema Diagram									
 
-## <ins>Abstract :</ins>
+## <ins>Introduction :</ins>
 
-The purpose of Vehicle Insurance Management System is to automate the existing manual system by the help of computerized equipment and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available and easy to work with .
+The **"Vehicle Insurance Management System"** has been developed to override the problems prevailing in the practicing manual system. This software is supported to eliminate and in some cases reduce the hardships faced by this existing system. Moreover this system is designed for the particular need of the company to carry out operations in a smooth and effective manner.
 
-The main objective of the Project on Vehicle Insurance Management System is to manage the details of Customer, Insurance, Vehicle, Vehicle Type, Vehicle Maker. It manages all the information about Customer, Customer ID Type, Vehicle Maker . The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Customer, Insurance, Customer ID Type, Vehicle. It tracks all the details about the Vehicle, Vehicle Type, Vehicle Maker.
+The application is reduced as much as possible to avoid errors while entering the data. It also provides error message while entering invalid data. No formal knowledge is needed for the user to use this system. Thus by this all it proves it is user-friendly. Vehicle Insurance Management System, as described above, can lead to error free, secure, reliable and fast management system. It can assist the user to concentrate on their other activities rather to concentrate on the record keeping. Thus it will help organization in better utilization of resources.
+
+Every organization, whether big or small, has challenges to overcome and managing the information of Insurance, Customer, Vehicle Type, Customer ID Type, Vehicle Maker. Every Vehicle Insurance Management System has different Customer needs, therefore we design exclusive employee management systems that are adapted to your managerial requirements. This is designed to assist in strategic planning, and will help you ensure that your organization is equipped with the right level of information and details for your future goals. Also, for those busy executive who are always on the go, our systems come with remote access features, which will allow you to manage your workforce anytime, at all times. manage resources. These systems will ultimately allow you to better manage resources.
+
+## <ins>Problem statement</ins>
+
+The purpose of Vehicle Insurance Management System is to automate the existing manual system by the help of computerized equipment and full-fledged computer software, fulfilling their requirements, so that their valuable data/information can be stored for a longer period with easy accessing and manipulation of the same. The required software and hardware are easily available easy to work with.
+
+## <ins>Objectives</ins>
+
+The main objective of the Project on Vehicle Insurance Management System is to manage the details of Customer, Insurance, Vehicle, Vehicle Type, Vehicle Maker. It manages all the information about Customer, Customer ID Type, Vehicle Maker, Customer. The project is totally built at administrative end and thus only the administrator is guaranteed the access. The purpose of the project is to build an application program to reduce the manual work for managing the Customer, Insurance, Customer ID Type, Vehicle. It tracks all the details about the Vehicle, Vehicle Type, Vehicle Maker.
 
 ## <ins>E-R Diagram :</ins>
 
